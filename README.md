@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I am a full-stack web developer
+- ✌️ I'm currently working on my development skills by creating new projects
+- 👀 Reack me out at komalbhatia2305@gmail.com
+  
 <!--
 **Komalpreet05/Komalpreet05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
