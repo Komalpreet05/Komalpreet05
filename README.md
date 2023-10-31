@@ -2,7 +2,7 @@
 - 🔭 I am a full-stack web developer
 - ✌️ I'm currently working on my development skills by creating new projects
 - 👀 Reach me out at komalbhatia2305@gmail.com
-  <a href="https://app.daily.dev/komalpreetsingh"><img src="https://api.daily.dev/devcards/972d24bfbb9b413d9bc4d0864d5d1991.png?r=p1t" width="400" alt="Komalpreet Singh's Dev Card"/></a>
+
 <!--
 **Komalpreet05/Komalpreet05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
